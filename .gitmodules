@@ -1,0 +1,4 @@
+[submodule "themes/plandocument"]
+	path = themes/plandocument
+	url = https://github.com/CUUATS/plandocument.git
+	branch = master
