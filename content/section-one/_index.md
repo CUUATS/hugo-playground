@@ -5,4 +5,3 @@ draft: true
 menu: main
 weight: 20
 ---
-This is a test file for the transportation group.
