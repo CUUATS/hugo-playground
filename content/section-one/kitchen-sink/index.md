@@ -24,7 +24,8 @@ lacus. Vestibulum et neque felis.
 ## Accordion
 {{<accordion>}}
   {{<accordion-content title="Bicycle">}}
-    Nullam ut ante vel metus aliquam molestie eleifend eu augue. Phasellus at
+    TestofChangingTextfffNullam ut ante vel metus aliquam molestie eleifend eu
+    augue. Phasellus at
     arcu vehicula, scelerisque lectus vulputate, finibus nulla. Phasellus
     ultricies massa ultrices, bibendum eros vel, dictum dui. Sed commodo lorem
     nisi, eget aliquam dolor iaculis vitae. Integer sed porta magna. Suspendisse
