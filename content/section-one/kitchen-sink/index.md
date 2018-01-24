@@ -30,7 +30,7 @@ lacus. Vestibulum et neque felis.
     ultricies massa ultrices, bibendum eros vel, dictum dui. Sed commodo lorem
     nisi, eget aliquam dolor iaculis vitae. Integer sed porta magna. Suspendisse
     nec nisi nulla. Nunc sollicitudin lectus ipsum, at faucibus magna tincidunt
-    a. Mauris gravida posuere dui. Pellentesque aliquam interdum dolor id
+    a. Maurisfff gravida posuere dui. Pellentesque aliquam interdum dolor id
     pharetra. Nam scelerisque posuere eros. Nulla finibus nulla vel orci
     scelerisque mattis. Suspendisse id vulputate ipsum, vel tempor neque.
   {{</accordion-content>}}
@@ -61,19 +61,3 @@ lacus. Vestibulum et neque felis.
     metus. Nunc varius rhoncus scelerisque.
   {{</accordion-content>}}
 {{</accordion>}}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum feugiat
-adkfjadsk lfjasdk ads asdf jkasd jskf  skjakdjf kasdjf aklsdfj klasdfj askdf
-jaskld;f jakdf;s  nulla sit amet lectus hendrerit, ut porttitor nunc bibendum.
-Donec elit ex, eleifend quis felis vel, rutrum commodo urna. Nulla sit amet diam
-libero. Donec consequat, risus vel facilisis imperdiet, turpis sapien porttitor
-ante, ac pulvinar arcu lectus ut est. Nunc id meadf aksd jaksdf jakdsjf tus eget
-libero efficitur tristique ut ultricies ex. Vestibulum vel tempor sapien, a
-porttitor lacus. Donec tincidunt pellentesque erat, et porta dolor pharetra id.
-
-Cras ac maximus dolor, ut pellentesque nulla. Aliquam iaculis nisl id nibh
-commodo auctor. Cras nec pretium nunc. Curabitur elementum auctor nulla, sit
-amet pellentesque enim placerat sit amet. Vivamus et magna non enim aliquam
-vulputate eu a mi. Proin ac est sed enim pharetra pharetra. Nunc sollicitudin,
-risus a convallis fringilla, ex lorem laoreet nunc, eget mollis sapien turpis
-vitae nulla.
