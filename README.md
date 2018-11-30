@@ -1,2 +1,2 @@
-# hugo-playground
-Example site for testing hugo features
+# We've moved!
+This repository is now [hosted on GitLab](https://gitlab.com/ccrpc/hugo-playground).
